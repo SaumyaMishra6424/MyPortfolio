@@ -3,7 +3,7 @@
 A modern, responsive React portfolio website showcasing my skills, projects, and experience as a Frontend Developer.
 Built with a focus on performance, clean UI, and smooth user experience.
 
-🔗 Live Demo: 
+🔗 Live Demo: https://my-portfolio-two-opal-38.vercel.app/
 
 🧩 Tech Stack
 
@@ -45,6 +45,6 @@ I enjoy creating clean UI, smooth UX, and writing maintainable code.
 
 GitHub: SaumyaMishra6424
 
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/saumya-mishra-75ab86272
 
-Portfolio: 
+Portfolio: https://my-portfolio-two-opal-38.vercel.app/
