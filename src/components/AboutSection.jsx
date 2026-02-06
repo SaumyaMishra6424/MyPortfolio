@@ -50,7 +50,7 @@ export const AboutSection = () => {
   // Programmatic download function
   const handleDownload = () => {
     const link = document.createElement('a');
-   <a href="https://drive.google.com/file/d/1uCwxiyyvKaplvXO2dzJ1p-6rXfRw5T6Z/view?usp=sharing" target="_blank" class="btn btn-secondary">Download Resume</a>
+   <a href="https://drive.google.com/file/d/1uCwxiyyvKaplvXO2dzJ1p-6rXfRw5T6Z/view?usp=drive_link" target="_blank" class="btn btn-secondary">Download Resume</a>
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
