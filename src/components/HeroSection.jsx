@@ -53,7 +53,7 @@ export const HeroSection = () => {
 
   const handleViewResume = () => {
     // Open resume in new tab
-    window.open('https://drive.google.com/file/d/1fGc4YqIXWARdx3vIMFAMTeg50IXWKbQH/view?usp=sharing', '_blank', 'noopener,noreferrer');
+    window.open('https://drive.google.com/file/d/1uCwxiyyvKaplvXO2dzJ1p-6rXfRw5T6Z/view?usp=sharing', '_blank', 'noopener,noreferrer');
   };
 
   return (
