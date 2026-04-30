@@ -23,7 +23,7 @@ export const HeroSection = () => {
   ];
 
   const achievements = [
-{ number: "4+", label: "Academic & Personal Projects", icon: <Shield className="h-3 w-3" /> },
+{ number: "8+", label: "Academic & Personal Projects", icon: <Shield className="h-3 w-3" /> },
 { number: "10+", label: "Technologies & Tools Used", icon: <TrendingUp className="h-3 w-3" /> },
 { number: "2", label: "Internships / Industry Experiences", icon: <Award className="h-3 w-3" /> },
 { number: "1", label: "AI/ML Project", icon: <Zap className="h-3 w-3" /> }
@@ -53,7 +53,7 @@ export const HeroSection = () => {
 
   const handleViewResume = () => {
     // Open resume in new tab
-    window.open('https://drive.google.com/file/d/1fGc4YqIXWARdx3vIMFAMTeg50IXWKbQH/view?usp=sharing', '_blank', 'noopener,noreferrer');
+    window.open('https://drive.google.com/file/d/1yy3p5vJxfNUKbK2yKZGfYwhBEyzPK74T/view?usp=sharing', '_blank', 'noopener,noreferrer');
   };
 
   return (

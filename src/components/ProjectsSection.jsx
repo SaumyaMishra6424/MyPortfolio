@@ -5,6 +5,8 @@ import FakeNews from "../assets/icons/FakeNews.png";
 import PersonalFinanceTracker from "../assets/icons/PersonalFinanceTracker.png";
 import FineDineExpress from "../assets/icons/FineDineExpress.png";
 import NetflixGpt from "../assets/icons/NetflixGpt.png";
+import PokedexLite from "../assets/icons/PokedexLite.png";
+import LaundryApp from "../assets/icons/LaundryApp.png";
 const projects = [
    {
   id: 1,
@@ -47,7 +49,7 @@ const projects = [
 {
   id: 3,
   title: "FineDineExpress",
-  category: "Food Tech",
+  category: "ConsumerTech Applications",
   description: "Responsive food ordering app showing top-rated restaurants with search and cart features.",
   image: FineDineExpress,
   tags: ["React", "JavaScript", "Hooks"],
@@ -63,8 +65,51 @@ const projects = [
     "Top-rated restaurant listing"
   ]
 },
+
 {
   id: 4,
+  title: "Pokedex Lite — Pokémon Explorer App",
+  category: "ConsumerTech Applications",
+  description: "Interactive Pokémon explorer with real-time search, type filtering, and responsive UI.",
+  image: PokedexLite,
+  tags: ["React", "Tailwind", "Firebase", "Framer Motion"],
+  demoUrl: "https://pokedox-lite-4coitq1g7-saumya-mishras-projects-79140157.vercel.app/",
+  githubUrl: "https://github.com/SaumyaMishra6424/Pokedox-Lite",
+  featured: true,
+  accentColor: "from-violet-500 to-purple-600",
+  status: "Completed",
+  highlights: [
+    "Real-time search",
+    "Type-based filtering",
+    "Favorites system",
+    "Responsive animated UI"
+  ]
+},
+
+
+{
+  id: 5,
+  title: "Laundry Order Management System",
+  category: "ConsumerTech Applications",
+  description: "AI-powered laundry management system with order creation, real-time billing, status tracking, and user-specific dashboard.",
+  image: LaundryApp,
+  tags: ["React", "Firebase", "JavaScript", "CSS"],
+  demoUrl: "https://laundry-app-eight-theta.vercel.app?_vercel_share=9bgEeiXZtTyuwK5HykiVXtXLJ7AVve8H",
+  githubUrl: "https://github.com/SaumyaMishra6424/laundry-app",
+  featured: true,
+  accentColor: "from-blue-500 to-cyan-500",
+  status: "Completed",
+  highlights: [
+    "Garment-based order creation",
+    "Real-time billing calculation",
+    "Order status tracking",
+    "User authentication & data isolation",
+    "Dashboard with revenue insights",
+    "Responsive UI with toast notifications"
+  ]
+},
+{
+  id: 6,
   title: "Fake News Detection",
   category: "Machine Learning",
   description: "ML model to classify news articles as fake or real using multiple classification algorithms.",
@@ -89,7 +134,7 @@ const projects = [
 const categoryColors = {
   "FinTech": "from-rose-500/20 to-pink-600/20 text-rose-600 border-rose-500/30",
   "Artificial Intelligence": "from-amber-500/20 to-orange-600/20 text-amber-600 border-amber-500/30",
-  "Food Tech": "from-violet-500/20 to-purple-600/20 text-violet-600 border-violet-500/30",
+  "ConsumerTech Applications": "from-violet-500/20 to-purple-600/20 text-violet-600 border-violet-500/30",
   "Machine Learning": "from-blue-500/20 to-cyan-600/20 text-blue-600 border-blue-500/30"
 };
 

@@ -10,7 +10,7 @@ export const AboutSection = () => {
   const [counter, setCounter] = useState(0);
 
   const achievements = [
-    { number: "4+", label: "Academic & Personal Projects", icon: <Briefcase className="h-5 w-5" />, suffix: "" },
+    { number: "8+", label: "Academic & Personal Projects", icon: <Briefcase className="h-5 w-5" />, suffix: "" },
     { number: "10+", label: "Technologies & Tools Used", icon: <Calendar className="h-5 w-5" />, suffix: "" },
     { number: "2", label: "Internships / Industry Experiences", icon: <Target className="h-5 w-5" />, suffix: "" },
     { number: "1", label: "AI/ML Project ", icon: <User className="h-5 w-5" />, suffix: "+" }
@@ -50,7 +50,7 @@ export const AboutSection = () => {
   // Programmatic download function
   const handleDownload = () => {
     const link = document.createElement('a');
-   <a href="https://drive.google.com/file/d/1fGc4YqIXWARdx3vIMFAMTeg50IXWKbQH/view?usp=sharing" target="_blank" class="btn btn-secondary">Download Resume</a>
+   <a href="https://drive.google.com/file/d/1yy3p5vJxfNUKbK2yKZGfYwhBEyzPK74T/view?usp=sharing" target="_blank" class="btn btn-secondary">Download Resume</a>
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

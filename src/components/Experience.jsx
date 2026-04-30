@@ -93,6 +93,9 @@ export const Experience = () => {
                 Aimence Infotech Pvt Ltd
               </p>
               <p className="text-sm text-muted-foreground">
+                Full Time , Remote
+              </p>
+              <p className="text-sm text-muted-foreground">
                 May 2025 – Oct 2025
               </p>
               <p className="text-sm text-muted-foreground">
@@ -122,6 +125,9 @@ export const Experience = () => {
               </h3>
               <p className="text-primary font-medium">
                 Ozark Solution
+              </p>
+              <p className="text-sm text-muted-foreground">
+                Internship , Remote
               </p>
               <p className="text-sm text-muted-foreground">
                 Feb 2024 – Jun 2024
