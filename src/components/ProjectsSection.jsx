@@ -73,7 +73,7 @@ const projects = [
   description: "Interactive Pokémon explorer with real-time search, type filtering, and responsive UI.",
   image: PokedexLite,
   tags: ["React", "Tailwind", "Firebase", "Framer Motion"],
-  demoUrl: "https://pokedox-lite-4coitq1g7-saumya-mishras-projects-79140157.vercel.app/",
+  demoUrl: "https://pokedox-lite-phi.vercel.app/?_vercel_share=SIr9VWfZnAOnKILup0YAt79soJyvjLAJ",
   githubUrl: "https://github.com/SaumyaMishra6424/Pokedox-Lite",
   featured: true,
   accentColor: "from-violet-500 to-purple-600",
