@@ -34,7 +34,7 @@ const projects = [
   description: "AI-powered movie discovery platform with smart search, recommendations, and trailer previews.",
   image: NetflixGpt,
   tags: ["React", "Redux", "Firebase", "OMDb API", "Cohere API"],
-  demoUrl: "https://netflix-k0p7m2m5g-saumya-mishras-projects-79140157.vercel.app?_vercel_share=cF5WnazjvKqXfYiAfHQmpNLnDNbGRH1v",
+  demoUrl: "https://netflix-gpt-sage-nine.vercel.app?_vercel_share=BlvpGZKx80c4kkCvtq4k8jqBSyTR48CU",
   githubUrl: "https://github.com/SaumyaMishra6424/Netflixgpt",
   featured: true,
   accentColor: "from-amber-500 to-orange-600",
